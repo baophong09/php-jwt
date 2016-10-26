@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Firebase\\JWT\\": "src"
+            "Baophong09\\JWT\\": "src"
         }
     },
     "extra": {
